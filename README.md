@@ -6,7 +6,11 @@ The app has two main tabs — **Expenses** for tracking personal spending with r
 
 ## Demo
 
-<!-- Drag and drop your demo video here on GitHub's web editor -->
+<img width="422" height="862" alt="Screenshot 2026-09-27 at 1 13 48 PM" src="https://github.com/user-attachments/assets/d1eaf7cb-5211-4a0e-9564-ed03a30ba27d" />
+
+<img width="422" height="862" alt="Screenshot 2026-09-27 at 1 14 16 PM" src="https://github.com/user-attachments/assets/48d8f904-5881-4b39-9a05-ad320bf23125" />
+
+<img width="422" height="862" alt="Screenshot 2026-09-27 at 1 14 39 PM" src="https://github.com/user-attachments/assets/9f3360f3-110a-41ba-ad26-3ddb6558a77d" />
 
 ## Features
 
