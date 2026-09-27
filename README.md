@@ -2,6 +2,8 @@
 
 A full-stack expense tracking app built as a system design learning project. Android client backed by a Kotlin server deployed on the cloud.
 
+The app has two main tabs — **Expenses** for tracking personal spending with receipt attachments, and **Split** for sharing expenses with other users, tracking balances, and settling up with push notifications.
+
 ## Demo
 
 <!-- Drag and drop your demo video here on GitHub's web editor -->
