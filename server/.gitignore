@@ -1,0 +1,6 @@
+build/
+.gradle/
+*.db
+.idea/
+*.env
+firebase-service-account.json
